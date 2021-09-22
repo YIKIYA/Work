@@ -2,10 +2,10 @@
 13 groups of software engineering products
 Git部分
 初始化操作
-在全英文路径下建立一个文件夹，再在这个文件夹内新建文件夹/game
+在全英文路径下建立一个文件夹，再在这个文件夹内新建文件夹/work
 进入该文件夹，右击鼠标 ==》 Git Bash Here ==》输入 git init 初始化一个仓库
-输入 git remote add gamerepo git@github.com:Cai8023/CTrain-Game.git 就可以链接到这个仓库 gamerepo 是在本地的仓库名，可以自取
-git clone git@github.com:Cai8023/CTrain-Game.git ，然后项目就克隆到本地啦
+输入 git remote add gamerepo git@github.com:YIKIYA/Work.git 就可以链接到这个仓库 gamerepo 是在本地的仓库名，可以自取
+git clone git@github.com:YIKIYA/Work.git ，然后项目就克隆到本地啦
 新建分支
 已经在 github 那边创建了各自名字的分支，所以大家只需要在本地建立相应分支就好啦
 
